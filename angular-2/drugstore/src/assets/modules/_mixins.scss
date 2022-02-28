@@ -6,3 +6,8 @@
     @content
   }
 };
+
+@mixin backgroundChange($bgColor) {
+
+  background-color: $bgColor;
+}
