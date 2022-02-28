@@ -3,11 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
-  // Cseréld ki a js4-002 részt a saját GitHub account azonosítódra,
-  // pl.: https://nettuts.hu/jms/NorbikaKicsike/
-  apiUrl: 'https://nettuts.hu/jms/mikroby/',
+  production: false
 };
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
